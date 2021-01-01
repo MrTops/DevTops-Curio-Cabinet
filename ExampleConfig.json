@@ -1,0 +1,5 @@
+{
+	"Token": "Discord Bot Token",
+	"DefaultPrefix": "The prefix that all servers will use by default",
+	"DBLink": "The link to the database"
+}
