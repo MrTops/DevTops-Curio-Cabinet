@@ -2,7 +2,7 @@
   "name": "DevTops--Curio-Cabinet",
   "version": "1.0.0",
   "description": "A discord bot with a collection of different commands",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
